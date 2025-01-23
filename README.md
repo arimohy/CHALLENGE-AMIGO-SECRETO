@@ -16,6 +16,12 @@ Este proyecto es una aplicación web interactiva diseñada para realizar sorteos
 - **CSS3**: Estilos visuales utilizando variables CSS.
 - **JavaScript**: Lógica para el sorteo y la interacción con el usuario.
 
+## Despliegue
+
+El proyecto está desplegado y puedes probarlo accediendo al siguiente enlace:
+
+[CHALLENGE-AMIGO-SECRETO](https://arimohy.github.io/CHALLENGE-AMIGO-SECRETO/)
+
 ## Instalación y uso 🖥️
 
 1. Clona este repositorio en tu máquina local:
